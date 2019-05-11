@@ -1,0 +1,63 @@
+{
+    "doctor": [
+        {
+            "drName": "Shubham",
+            "drId": "23",
+            "speciality": "Cardiologist",
+            "availability": "AM",
+            "NoOfAppointment": 1
+        },
+        {
+            "drName": "Rushikesh",
+            "drId": "29",
+            "speciality": "Dermatologist",
+            "availability": "PM",
+            "NoOfAppointment": 1
+        },
+        {
+            "drName": "Akshay",
+            "drId": "20",
+            "speciality": "Alergist",
+            "availability": "Both",
+            "NoOfAppointment": 0
+        }
+    ],
+    "patient": [
+        {
+            "pName": "Parmeshwar",
+            "pId": "19",
+            "mobNo": "6737435735",
+            "age": "21"
+        },
+        {
+            "pName": "Prasanna",
+            "pId": "30",
+            "mobNo": "9011548554",
+            "age": "21"
+        },
+        {
+            "pName": "Jotiram",
+            "pId": "14",
+            "mobNo": "7798432152",
+            "age": "22"
+        },
+        {
+            "pName": "Jotiram",
+            "pId": "15",
+            "mobNo": "8545254521",
+            "age": "23"
+        }
+    ],
+    "cliniqueAppointment": [
+        {
+            "drName": "Rushikesh",
+            "pName": "Parmeshwar",
+            "time": "PM"
+        },
+        {
+            "drName": "Shubham",
+            "pName": "Jotiram",
+            "time": "AM"
+        }
+    ]
+}

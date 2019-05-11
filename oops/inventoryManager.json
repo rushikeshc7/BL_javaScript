@@ -1,0 +1,24 @@
+{
+    "stock": [
+        {
+            "StockName": "Bridgelabz solutions",
+            "NoOfShare": "100",
+            "SharePrice": "2000"
+        },
+        {
+            "StockName": "TCS",
+            "NoOfShare": "20",
+            "SharePrice": "90"
+        },
+        {
+            "StockName": "Dell",
+            "NoOfShare": "45",
+            "SharePrice": "32"
+        },
+        {
+            "StockName": "Dell",
+            "NoOfShare": "50",
+            "SharePrice": "24"
+        }
+    ]
+}

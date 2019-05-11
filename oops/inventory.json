@@ -1,0 +1,53 @@
+{
+    "Rice": [
+        {
+            "name": "Basmati rice",
+            "weight": 1,
+            "price": 100
+        },
+        {
+            "name": "Jasmine rice",
+            "weight": 1,
+            "price": 50
+        },
+        {
+            "name": "Brown rice",
+            "weight": 1,
+            "price": 70
+        }
+    ],
+    "Pulses": [
+        {
+            "name": "Blacke eyed beans",
+            "weight": 1,
+            "price": 40
+        },
+        {
+            "name": "Dew gram beans",
+            "weight": 1,
+            "price": 60
+        },
+        {
+            "name": "Red lentils",
+            "weight": 1,
+            "price": 30
+        }
+    ],
+    "Wheat": [
+        {
+            "name": "Common wheat",
+            "weight": 1,
+            "price": 27
+        },
+        {
+            "name": "Spelt",
+            "weight": 1,
+            "price": 30
+        },
+        {
+            "name": "Triticale",
+            "weight": 1,
+            "price": 32
+        }
+    ]
+}

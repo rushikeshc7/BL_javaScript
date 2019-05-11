@@ -1,0 +1,19 @@
+{
+    "Stock": [
+        {
+            "stockName": "INFY",
+            "share": 1,
+            "price": 37
+        },
+        {
+            "stockName": "TATA",
+            "share": 1,
+            "price": 120
+        },
+        {
+            "stockName": "RBI",
+            "share": 1,
+            "price": 340
+        }
+    ]
+}
